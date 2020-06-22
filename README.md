@@ -364,7 +364,7 @@ bash install.sh
 ```
 远程安装 / Netinstall
 ```bash
-wget --no-check-certificate -qO-  https://raw.githubusercontent.com/reruin/sharelist/master/netinstall.sh | bash
+wget --no-check-certificate -qO-  https://raw.githubusercontent.com/jacksonyoyo/sharelist/master/netinstall.sh | bash
 ```
 更新 / Update
 ```bash
